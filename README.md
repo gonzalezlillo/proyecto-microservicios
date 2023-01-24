@@ -1,5 +1,5 @@
-### Proyecto de microservicios utilizando Eureka y Spring Cloud Gateway
-## Java + Spring Boot
+## Proyecto de microservicios utilizando Eureka y Spring Cloud Gateway
+### Java + Spring Boot
 
 Ejercicio básico con 4 microservicios:
 * Eureka Server: servidor de nombres que permite el trabajo coordinado, seguro y escalable de los demás microservicios.
